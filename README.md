@@ -1,4 +1,4 @@
 # demo-programs
-Hi everyon this is my first git repository.
+Hi everyone this is my first git repository.
 <br> 
 Author- Abhishek kumar
